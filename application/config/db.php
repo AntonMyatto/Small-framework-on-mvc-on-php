@@ -2,8 +2,8 @@
 
 //YOUR DATABASES INFO
 return [
-    'host' => '',
-    'name' => '',
-    'user' => '',
+    'host' => 'localhost',
+    'name' => 'invest',
+    'user' => 'root',
     'password' => '',
 ];
